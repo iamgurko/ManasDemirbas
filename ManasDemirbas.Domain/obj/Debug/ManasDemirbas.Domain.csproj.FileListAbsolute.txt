@@ -1,0 +1,6 @@
+C:\Users\Enes Karaçomak\Desktop\ManasDemirbas\ManasDemirbas.Domain\bin\Debug\ManasDemirbas.Domain.dll
+C:\Users\Enes Karaçomak\Desktop\ManasDemirbas\ManasDemirbas.Domain\bin\Debug\ManasDemirbas.Domain.pdb
+C:\Users\Enes Karaçomak\Desktop\ManasDemirbas\ManasDemirbas.Domain\obj\Debug\ManasDemirbas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Enes Karaçomak\Desktop\ManasDemirbas\ManasDemirbas.Domain\obj\Debug\ManasDemirbas.Domain.dll
+C:\Users\Enes Karaçomak\Desktop\ManasDemirbas\ManasDemirbas.Domain\obj\Debug\ManasDemirbas.Domain.pdb
+C:\Users\Enes Karaçomak\Desktop\ManasDemirbas\ManasDemirbas.Domain\obj\Debug\ManasDemirbas.Domain.csprojAssemblyReference.cache
